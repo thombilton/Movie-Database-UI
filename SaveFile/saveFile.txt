@@ -1,0 +1,208 @@
+@NEW MOVIE
+@UID
+38
+@TITLE
+The Dark Night
+@DIRECTOR
+Christopher Nolan
+@RAITING
+9
+@RELEASE
+2008
+@LEAD
+Action
+@ACTORS
+Christian Bale, Heath Ledger, Aaron Eckhart
+@END
+@NEW MOVIE
+@UID
+40
+@TITLE
+The Wolf of Wall Street
+@DIRECTOR
+Martin Scorsese
+@RAITING
+8
+@RELEASE
+2013
+@LEAD
+Crime Comedy
+@ACTORS
+Leonardo DiCaprio, Jonah HIll, Margot Robbie
+@END
+@NEW MOVIE
+@UID
+42
+@TITLE
+Planet Of The Apes
+@DIRECTOR
+Tim Burton
+@RAITING
+5
+@RELEASE
+2001
+@LEAD
+Action
+@ACTORS
+Mark Wahlberg, Tim Roth, David Warner
+@END
+@NEW MOVIE
+@UID
+54
+@TITLE
+The Lord of the Rings: The Two Towers
+@DIRECTOR
+Peter Jackson
+@RAITING
+8
+@RELEASE
+2002
+@LEAD
+Action Adventure
+@ACTORS
+Elijah Wood, Ian McKellen, Viggo Mortensen
+@END
+@NEW MOVIE
+@UID
+61
+@TITLE
+The Shawshank Redemption
+@DIRECTOR
+Frank Drabont
+@RAITING
+9
+@RELEASE
+1994
+@LEAD
+Thriller
+@ACTORS
+Morgan Freeman, Bob Gunton, William Sadler
+@END
+@NEW MOVIE
+@UID
+44
+@TITLE
+Inception
+@DIRECTOR
+Chistopher Nolan
+@RAITING
+8
+@RELEASE
+2010
+@LEAD
+Action Thriller
+@ACTORS
+Leonardo DiCaprio, Ellen Page, Joseph Gordon-Levitt
+@END
+@NEW MOVIE
+@UID
+46
+@TITLE
+About Time
+@DIRECTOR
+Richard Curtis
+@RAITING
+7
+@RELEASE
+2013
+@LEAD
+Romantic
+@ACTORS
+Richard Curtis, Margot Robbie, Rachel McAdams
+@END
+@NEW MOVIE
+@UID
+48
+@TITLE
+War of the Worlds
+@DIRECTOR
+Steven Spielberg
+@RAITING
+6
+@RELEASE
+2005
+@LEAD
+Action
+@ACTORS
+Tom Cruise, Dakota Fanning, Miranda Otto, Justin Chatwin
+@END
+@NEW MOVIE
+@UID
+50
+@TITLE
+King Kong
+@DIRECTOR
+Peter Jackson
+@RAITING
+7
+@RELEASE
+2005
+@LEAD
+Action Thriller
+@ACTORS
+Naomi Watts, Jack Black, Adrien Brody, A CGI Ape
+@END
+@NEW MOVIE
+@UID
+52
+@TITLE
+Batman Begins
+@DIRECTOR
+Christopher Nolan
+@RAITING
+8
+@RELEASE
+2005
+@LEAD
+Action
+@ACTORS
+Christian Bale, Michael Caine, Liam Neeson, Katie Holmes
+@END
+@NEW MOVIE
+@UID
+56
+@TITLE
+X-Men: Days of Future Past
+@DIRECTOR
+Bryan Singer
+@RAITING
+8
+@RELEASE
+2014
+@LEAD
+Super Hero Action
+@ACTORS
+Hugh Jackman, Patrick Stewart, Ian McKellen
+@END
+@NEW MOVIE
+@UID
+58
+@TITLE
+Paperback Hero
+@DIRECTOR
+Antony J. Bowman
+@RAITING
+6
+@RELEASE
+1999
+@LEAD
+Romantic Comedy
+@ACTORS
+Hugh Jackman, Claudia Karvan, Angie Milliken
+@END
+@NEW MOVIE
+@UID
+60
+@TITLE
+Going Down
+@DIRECTOR
+Haydn Keenan
+@RAITING
+6
+@RELEASE
+1983
+@LEAD
+Romantic Comedy
+@ACTORS
+Tracy Mann, Julie Barry, Vera Plevnik
+@END
